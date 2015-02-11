@@ -1,10 +1,10 @@
 {
-  "name": "nz_areaunit_geojson",
+  "name": "nz_area_units_geojson",
   "version": "1.0.0",
   "authors": [
     "Caleb Tutty <caleb.tutty@nzherald.co.nz>"
   ],
-  "description": "New Zealand Meshblock data as GeoJSON",
+  "description": "New Zealand Area Unit data as GeoJSON",
   "keywords": [
     "geojson",
     "new zealand",

@@ -1,4 +1,4 @@
-nz_areaunit_geojson
+nz_area_units_geojson
 ============================
 
 Census Area Units as used by Statistics New Zealand, converted to GeoJSON
@@ -8,7 +8,7 @@ Census Area Units as used by Statistics New Zealand, converted to GeoJSON
 Add the following to your bower.json:
 
 ```
-"nz_areaunit_geojson": "git://github.com/nzherald/nz_areaunit_geojson#1.0.0"
+"nz_area_units_geojson": "git://github.com/nzherald/nz_area_units_geojson#1.0.0"
 ```
 
 #### Use with bower-rails:
@@ -16,7 +16,7 @@ Add the following to your bower.json:
 Add the following to your Bowerfile:
 
 ```
-asset 'nz_areaunit_geojson', '1.0.0', github: 'nzherald/nz_areaunit_geojson'
+asset 'nz_area_units_geojson', '1.0.0', github: 'nzherald/nz_area_units_geojson'
 ```
 
 ### Contributing
